@@ -6,7 +6,7 @@ This is an indoor GPS navigation system built with Unity for Collège Lionel-Gro
 
 The system uses advanced pathfinding algorithms (A* and Dijkstra) to calculate optimal routes between locations, with support for custom constraints such as avoiding specific areas or passing through waypoints.
 <img width="1759" height="973" alt="image" src="https://github.com/user-attachments/assets/0c8ed4fd-6919-4183-8f45-a086c75f3e48" />
-
+Link: https://youtu.be/qRlyFOSZL3o?si=OvDBjickhwKTfRFY
 ## ✨ Key Features
 
 ### Navigation & Pathfinding
